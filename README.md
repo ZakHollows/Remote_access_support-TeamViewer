@@ -13,3 +13,4 @@ Ask client for password ensuring case sensitivity
 Access achieved
 Open task manager
 
+(https://github.com/ZakHollows/RDP-access-and-configuration/blob/8190a58a1c5ac2eb61b74d0f1be2120819b0b1a9/screenshot%201.png)
