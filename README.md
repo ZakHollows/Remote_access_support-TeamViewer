@@ -4,7 +4,7 @@
 
 Using Teamviewer to remote access another PC to diagnose and implement a fix to high memory usage Issue. Using task manager on accessed PC the issue was a program opening several instances, each using resources which slowed the PC down. After closing program memory usage returned to normal limits, client advised to only run two VMs at once to avoid further performance issues.
 
-I learned how to use Teamviewer to give customer support and that a resource intense program can have several instances running, and can look normal if viewed along side program which dont run several instances.
+I learned how to use Teamviewer to give customer support and that a resource intense program can have several instances running, and can look normal if viewed along side program which run only one instance at a higher intensity
 
 # Documentation
 
